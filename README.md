@@ -1,5 +1,3 @@
-Hier ist die zweisprachige Version deiner README. Ich habe die Formatierung ein wenig optimiert, damit sie auf GitHub sowohl für deutsche als auch für internationale Nutzer sauber aussieht.
-
 ---
 
 # IServ MacOS App 
