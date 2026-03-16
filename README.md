@@ -6,8 +6,6 @@ Hier ist die zweisprachige Version deiner README. Ich habe die Formatierung ein 
 
 ---
 
-## English
-
 A native macOS application designed to make accessing your IServ portal faster, easier, and more convenient. No more cluttered browser tabs or progressive-web-app-installations – keep your tasks and emails right in your Dock.
 
 ###  Features
